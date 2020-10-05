@@ -34,17 +34,17 @@
 	<Property Name="Serialized ACL" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Dependencies" Type="Folder">
-		<Item Name="Thorlabs.MotionControl.DeviceManager.dll" Type="Document" URL="../KST101/Dependencies/Thorlabs.MotionControl.DeviceManager.dll"/>
-		<Item Name="Thorlabs.MotionControl.DeviceManagerCLI.dll" Type="Document" URL="../KST101/Dependencies/Thorlabs.MotionControl.DeviceManagerCLI.dll"/>
-		<Item Name="Thorlabs.MotionControl.GenericMotorCLI.dll" Type="Document" URL="../KST101/Dependencies/Thorlabs.MotionControl.GenericMotorCLI.dll"/>
-		<Item Name="Thorlabs.MotionControl.KCube.StepperMotor.dll" Type="Document" URL="../KST101/Dependencies/Thorlabs.MotionControl.KCube.StepperMotor.dll"/>
-		<Item Name="Thorlabs.MotionControl.KCube.StepperMotorCLI.dll" Type="Document" URL="../KST101/Dependencies/Thorlabs.MotionControl.KCube.StepperMotorCLI.dll"/>
-		<Item Name="Thorlabs.MotionControl.PrivateInternal.dll" Type="Document" URL="../KST101/Dependencies/Thorlabs.MotionControl.PrivateInternal.dll"/>
-		<Item Name="Thorlabs.MotionControl.Tools.Common.dll" Type="Document" URL="../KST101/Dependencies/Thorlabs.MotionControl.Tools.Common.dll"/>
-		<Item Name="Thorlabs.MotionControl.Tools.Logging.dll" Type="Document" URL="../KST101/Dependencies/Thorlabs.MotionControl.Tools.Logging.dll"/>
-		<Item Name="Thorlabs.MotionControl.Tools.WPF.dll" Type="Document" URL="../KST101/Dependencies/Thorlabs.MotionControl.Tools.WPF.dll"/>
-		<Item Name="Thorlabs.MotionControl.Tools.WPF.UI.dll" Type="Document" URL="../KST101/Dependencies/Thorlabs.MotionControl.Tools.WPF.UI.dll"/>
-		<Item Name="Xceed.Wpf.Toolkit.dll" Type="Document" URL="../KST101/Dependencies/Xceed.Wpf.Toolkit.dll"/>
+		<Item Name="Thorlabs.MotionControl.DeviceManager.dll" Type="Document" URL="../Dependencies/Thorlabs.MotionControl.DeviceManager.dll"/>
+		<Item Name="Thorlabs.MotionControl.DeviceManagerCLI.dll" Type="Document" URL="../Dependencies/Thorlabs.MotionControl.DeviceManagerCLI.dll"/>
+		<Item Name="Thorlabs.MotionControl.GenericMotorCLI.dll" Type="Document" URL="../Dependencies/Thorlabs.MotionControl.GenericMotorCLI.dll"/>
+		<Item Name="Thorlabs.MotionControl.KCube.StepperMotor.dll" Type="Document" URL="../Dependencies/Thorlabs.MotionControl.KCube.StepperMotor.dll"/>
+		<Item Name="Thorlabs.MotionControl.KCube.StepperMotorCLI.dll" Type="Document" URL="../Dependencies/Thorlabs.MotionControl.KCube.StepperMotorCLI.dll"/>
+		<Item Name="Thorlabs.MotionControl.PrivateInternal.dll" Type="Document" URL="../Dependencies/Thorlabs.MotionControl.PrivateInternal.dll"/>
+		<Item Name="Thorlabs.MotionControl.Tools.Common.dll" Type="Document" URL="../Dependencies/Thorlabs.MotionControl.Tools.Common.dll"/>
+		<Item Name="Thorlabs.MotionControl.Tools.Logging.dll" Type="Document" URL="../Dependencies/Thorlabs.MotionControl.Tools.Logging.dll"/>
+		<Item Name="Thorlabs.MotionControl.Tools.WPF.dll" Type="Document" URL="../Dependencies/Thorlabs.MotionControl.Tools.WPF.dll"/>
+		<Item Name="Thorlabs.MotionControl.Tools.WPF.UI.dll" Type="Document" URL="../Dependencies/Thorlabs.MotionControl.Tools.WPF.UI.dll"/>
+		<Item Name="Xceed.Wpf.Toolkit.dll" Type="Document" URL="../Dependencies/Xceed.Wpf.Toolkit.dll"/>
 	</Item>
 	<Item Name="KST101.lvclass" Type="LVClass" URL="../KST101/KST101.lvclass"/>
 </Library>
